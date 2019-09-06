@@ -1,26 +1,17 @@
 # Site settings
-title: Course Website for CEA/CS
-subtitle: Introduction to Object-Oriented Programming in Java
+title: Course Website for CS-1001 (CEA/CS)
+subtitle: Introduction to O.O.P in Java
 description: |
-    Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
-    Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt. 
-    Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non. 
-    Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio. 
-    Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies. 
-    Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl. 
-    Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
-    Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
-    Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
+    I wil come up with a description later.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aaronhangzhou.xicp.net:4000" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/syllabus-example/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
+githubdir: "jiajunmao/course-website"
 
 # Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
+email: aaron@investarchina.com
+twitter_username: aaronmao
+github_username:  jiajunmao
 authorurl: "http://svmiller.com"
 address: |
     Department of Political Science
