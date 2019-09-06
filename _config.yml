@@ -1,6 +1,6 @@
 # Site settings
-title: Course Website for CS-1001 (CEA/CS)
-subtitle: Introduction to O.O.P in Java
+title: Course Website
+subtitle: Title of the Course
 description: |
     I wil come up with a description later.
 baseurl: "" # the subpath of your site, e.g. /blog/
