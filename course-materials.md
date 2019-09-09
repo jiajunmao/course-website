@@ -4,17 +4,14 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-{% include image.html url="/_images/fabulous-sylvester.jpg" caption="The Textbook for the Semester" width=300 align="right" %}
+{% include image.html url="/_images/51pJN-KSUtL.jpg" caption="Main Textbook for the Semester" width=300 align="right" %}
 
 ## Book
 
-Garrison, Joshua. 2006. [The Fabulous Sylvester: The Legend, the Music, the Seventies in San Francisco](https://www.amazon.com/Fabulous-Sylvester-Legend-Seventies-Francisco/dp/0312425694/). Picador.
+Zhongwei Li, et. all. 2008. Java from Entry to Intermediate. Qsing Hua University Publisher.
 
 ## Additional Course Materials
 
-Students must read the following documents in the first week of class. These outline my expectations for the rest of the semester.
+The followings are the supplemental readings for the students of this course. They can read them for better undertanding of the course material.
 
-- [Taking Good Notes](http://svmiller.com/blog/2014/09/taking-good-notes/)
-- [Fun with Attendance and Grades (i.e. Students Should Attend Class)](http://svmiller.com/blog/2016/05/fun-with-attendance-grades/)
-- [The Educational Power of Discomfort](http://svmiller.com/blog/2016/05/educational-power-discomfort/)
-- [Put Your Laptops Away, Kids (Vol. 2)](http://svmiller.com/blog/2016/05/put-your-laptops-away-2/)
+- [The Blue Pelican](https://www.sps186.org/downloads/basic/288168/BPJ_TextBook_3_0_5_Printable.pdf)
