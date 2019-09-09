@@ -1,0 +1,29 @@
+I"H<!-- <ul id="archive">
+
+
+
+  
+    <h1></h1>
+    
+  
+
+
+</ul> -->
+
+<p>This page contains link to the lectures I give throughout the semester. Clicking the title of the week’s lecture will go to a PDF, embedded in the user’s browser, by default. The bottom right icons link to the Github directory for the lecture (<i class="fab fa-github"></i>), the R Markdown document for the lecture (<i class="fab fa-r-project"></i>), and a PDF, embedded on Github, for the lecture (<i class="fas fa-file-pdf"></i>).</p>
+
+<ul id="archive">
+
+      <li class="archiveposturl">
+        <span><a href="http://0.0.0.0:4000/untitled-lecture/Untitled.pdf">Sample .Rmd File</a></span><br />
+<span class="postlower">
+<strong>tl;dr:</strong> This is just a sample .rmd file to illustrate the use of the lectures.yml file.</span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em">
+	<a href="https://github.com/jiajunmao/course-website/tree/master/untitled-lecture"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
+<a href="https://github.com/jiajunmao/course-website/tree/master/untitled-lecture/Untitled.Rmd"><i class="fab fa-r-project"></i></a>&nbsp;&nbsp;
+<a href="https://github.com/jiajunmao/course-website/blob/master/untitled-lecture/Untitled.pdf"><i class="fas fa-file-pdf"></i></a>
+</strong> 
+      </li>
+
+</ul>
+:ET

@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Course Website</title>
-    <description>Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
-Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt. 
-Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non. 
-Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio. 
-Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies. 
-Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl. 
-Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
-Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
-Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
+    <title>Course Website for CEA/CS</title>
+    <description>I will think of an description later.
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2019 14:05:02 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 14:05:02 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2019 05:57:35 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2019 05:57:35 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
