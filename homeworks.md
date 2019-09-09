@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/
+title: Homeworks
+permalink: /homeworks/
 ---
 
 <!-- <ul id="archive">
