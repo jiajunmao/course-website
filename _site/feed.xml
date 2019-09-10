@@ -4,10 +4,10 @@
     <title>Course Website for CEA/CS</title>
     <description>I will think of an description later.
 </description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Sep 2019 05:57:35 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Sep 2019 05:57:35 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/cs100//</link>
+    <atom:link href="http://0.0.0.0:4000/cs100//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Sep 2019 03:41:08 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2019 03:41:08 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 16 Aug 2015 15:36:27 +0000</pubDate>
-        <link>http://0.0.0.0:4000/blog/2015/08/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2015/08/welcome-to-jekyll</guid>
+        <link>http://0.0.0.0:4000/cs100//blog/2015/08/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/cs100//blog/2015/08/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>

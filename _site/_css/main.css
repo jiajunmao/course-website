@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /** Site header */
-.site-header { border-top: 0px solid #424242; border-bottom: 4px solid #f66733; min-height: 56px; background: #522d80; position: relative; }
+.site-header { border-top: 0px solid #424242; border-bottom: 4px solid #e62329; min-height: 56px; background: #12294B; position: relative; }
 
 .site-title { font-size: 26px; /* 		margin-top: 15px; line-height: 40px; */ letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; font-family: 'Titillium Web', sans-serif; color: #ffffff; }
 
@@ -21,11 +21,11 @@
 /* Sub Menu */
 .site-nav .sub-menu a { display: block; font-weight: normal; height: auto; letter-spacing: 0; line-height: 1.2em; padding: 4px 10px; color: #522d80; }
 
-.site-nav .sub-menu a:hover { color: #522d80; }
+.site-nav .sub-menu a:hover { color: #12294B; }
 
-.site-nav .sub-menu { background: #ffffff; border-color: #522d80; min-width: 265px; z-index: 2147483647; }
+.site-nav .sub-menu { background: #ffffff; border-color: #12294B; min-width: 265px; z-index: 2147483647; }
 
-.site-nav .sub-menu li.current-menu-item > a { border-left-color: #522d80; border-right-color: #522d80; border-right: 0px; }
+.site-nav .sub-menu li.current-menu-item > a { border-left-color: #12294B; border-right-color: #12294B; border-right: 0px; }
 
 .sub-menu { border: 3px solid transparent; border-top: 0; /* bg and border colors set in header */ box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); display: none; right: -10px; padding: 4px 0 3px 0; position: absolute; text-align: left; text-transform: none; top: 28px; min-width: 265px; z-index: 999; font-family: Helvetica, Arial, Verdana, sans-serif; }
 
@@ -39,7 +39,7 @@
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #ffffff; background: #522d80; line-height: 1.5; }
+.site-nav .page-link { color: #ffffff; background: #12294B; line-height: 1.5; }
 
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 
@@ -88,7 +88,7 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 200; }
 
 /** Links */
-a { color: #0077CC; text-decoration: none; }
+a { color: #12294B; text-decoration: none; }
 
 a:visited { /*    color: darken($brand-color, 15%); */ }
 
@@ -163,7 +163,7 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-h1 { /*    font-size: 42px; */ letter-spacing: -1px; line-height: 1; font-family: 'Titillium Web', sans-serif; color: #522d80; }
+h1 { /*    font-size: 42px; */ letter-spacing: -1px; line-height: 1; font-family: 'Titillium Web', sans-serif; color: #152651; }
 
 @media screen and (max-width: 950px) { h1 { /*        font-size: 36px; */ } }
 
@@ -193,7 +193,7 @@ ul.listing li.listing-seperator { padding-top: 15px; font-weight: bold; font-fam
 
 ul.listing li.listing-item time { color: #333; font-weight: 500; text-transform: uppercase; padding-right: 10px; }
 
-ul.listing li.listing-item a { color: #522d80; font-weight: 400; font-family: 'Titillium Web', sans-serif; }
+ul.listing li.listing-item a { color: #12294B; font-weight: 400; font-family: 'Titillium Web', sans-serif; }
 
 /*------ archive type stuff ------ */
 ul#archive { list-style-type: none; margin: 0 0 1em 0; padding: 0; }
@@ -210,7 +210,7 @@ ul#archive li.alt { background: #f6f6f6; }
 
 .archiveposturl { display: block; color: #333; }
 
-ul#archive li span a { color: #522d80; font-weight: bold; font-family: 'Titillium Web', sans-serif; }
+ul#archive li span a { color: #12294B; font-weight: bold; font-family: 'Titillium Web', sans-serif; }
 
 ul#archive li span.postlower { font-size: 85%; }
 
@@ -288,7 +288,7 @@ article ul#archive > li:before { list-style-type: none; content: none; }
 
 .highlight .nb, .preview-zenburn .highlight .nc, .preview-zenburn .highlight .nf, .preview-zenburn .highlight .bp, .preview-zenburn .highlight .vc { color: #efef8f; }
 
-.wp-caption { background-color: #f3f3f3; text-align: center; border: 1px dotted #522d80; font-size: 0.90em; overflow: hidden; position: relative; }
+.wp-caption { background-color: #f3f3f3; text-align: center; border: 1px dotted #12294B; font-size: 0.90em; overflow: hidden; position: relative; }
 
 .wp-caption dd { color: #000000; background-color: #f3f3f3; font-size: .9em; padding: 2px 8px 3px 8px; margin: 1px 0 0 0; }
 
