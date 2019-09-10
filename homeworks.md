@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homeworks
-permalink: /cs100/homeworks/
+permalink: /homeworks/
 ---
 
 <!-- <ul id="archive">

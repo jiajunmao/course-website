@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /cs100/syllabus/
+permalink: /syllabus/
 ---
 
 <!-- <ul id="archive">
