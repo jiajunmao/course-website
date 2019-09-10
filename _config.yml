@@ -4,7 +4,7 @@ subtitle: Introduction to Object-Oriented Programming in Java
 description: |
     I will think of an description later.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://teaching.investarchina.com # the base hostname & protocol for your site
+url: "http://teaching.investarchina.com" # the base hostname & protocol for your site
 syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/syllabus-example/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "jiajunmao/course-website"
 
