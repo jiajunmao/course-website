@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Materials
-permalink: /course-materials/
+permalink: /cs100/course-materials/
 ---
 
 {% include image.html url="/_images/51pJN-KSUtL.jpg" caption="Main Textbook for the Semester" width=300 align="right" %}
